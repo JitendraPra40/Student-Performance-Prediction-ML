@@ -1,0 +1,1 @@
+"Machine learning project and deploy on azure"
